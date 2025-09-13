@@ -20,17 +20,4 @@ This project uses:
 - Web UI with live preview
 - Download the generated `README.md`
 
----
-
-# installation
-
-Clone this repository and set up dependencies:
-
-```bash
-git clone https://github.com/your-username/readme-generator-flask.git
-cd readme-generator-flask
-python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
 
